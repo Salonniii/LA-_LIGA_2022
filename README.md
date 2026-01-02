@@ -1,55 +1,37 @@
-# 🏆 La Liga Standings App
+# ⚽ La Liga App (Android – Jetpack Compose)
 
-An Android app built using **Jetpack Compose** that shows **La Liga football standings** with real-time data from the internet.
-
----
-
-## 📱 Features
-- 📊 Live La Liga standings
-- 🎨 Rank-based background colors
-- 🏟 Team detail screen with stats & logo
-- 🔄 Loading & retry handling
-- 📡 Real-time data using API
-- 🧭 Smooth navigation with Jetpack Navigation
+An Android application that displays **live La Liga football standings** using a real football API.  
+Built with **Jetpack Compose**, **MVVM**, **Retrofit**, and **Navigation Compose**.
 
 ---
 
-## 🛠 Tech Stack
-- **Language:** Kotlin  
-- **UI:** Jetpack Compose  
-- **Architecture:** MVVM  
-- **Networking:** Retrofit  
-- **State Management:** ViewModel + State  
-- **Navigation:** Navigation Compose  
+## ✨ Features
+
+- 📊 Live La Liga standings (real-time data)
+- 🏆 Team ranking with points
+- 🖼 Team logos displayed in UI
+- 📄 Team detail screen with stats
+- 🔄 Loading & Retry state
+- 🎨 Rank-based UI colors
+- ⬅️ Proper back navigation
 
 ---
 
 ## 📸 Screenshots
 
 ### Standings Screen
-![Standings](screenshots/standings.png)
+![Standings](screenshots/standing.png.jpg)
 
 ### Team Detail Screen
-![Team Detail](screenshots/team_detail.png)
+![Team Detail](screenshots/team_detail.png.jpg)
 
 ### Loading State
-![Loading](screenshots/loading.png)
+![Loading](screenshots/loading.png.jpg)
 
 ---
 
 ## 🚀 How to Run
-1. Clone the repository
-2. Open in Android Studio
-3. Sync Gradle
-4. Run on Emulator or Physical Device
 
----
-
-## 🔗 API Used
-- Football data API (Live standings)
-
----
-
-## 👩‍💻 Author
-**Saloni Gupta**  
-Computer Science Student | Android Developer
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/<your-username>/LA_LIGA_2022.git
