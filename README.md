@@ -20,7 +20,7 @@ Built with **Jetpack Compose**, **MVVM**, **Retrofit**, and **Navigation Compose
 ## 📸 Screenshots
 
 ### Standings Screen
-![Standings](screenshots/standing.png.jpg)
+![Standings](screenshots/standings.png.jpg)
 
 ### Team Detail Screen
 ![Team Detail](screenshots/team_detail.png.jpg)
